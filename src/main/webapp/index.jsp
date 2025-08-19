@@ -1,6 +1,6 @@
 
 <%@ page contentType="text/html; charset=UTF-8" %>
-<%@ include file="includes/header.jspf" %>
+<%@ include file="/WEB-INF/includes/header.jspf" %>
 <div class="hero">
   <div class="panel">
     <span class="pill">Hand-tied • Same-day delivery</span>
